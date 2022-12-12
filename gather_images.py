@@ -17,6 +17,7 @@ import cv2
 import os
 import sys
 
+
 try:
     label_name = sys.argv[1]
     num_samples = int(sys.argv[2])
